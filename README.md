@@ -12,8 +12,8 @@
 ## 运行方法
 
 ```bash
-cd /path/to/directory
-g++ ./sample1.cpp -g -o sample1.out
+cd /path/to/directory/PB25051010-ZhouKe-Lab1
+g++ ./sample.cpp -g -o sample.out
 ./sample.out
 ```
 
